@@ -35,8 +35,6 @@ In this simulation, /order topic is created for the waypoints of the respected t
 
 ![Screenshot from 2024-09-03 08-01-53](https://github.com/user-attachments/assets/1a1c38c0-9ccf-459c-80d7-8f53b4ad3319)
 
-
-
       ![Screenshot from 2024-09-03 08-02-02](https://github.com/user-attachments/assets/d9e3ad44-cf45-45ce-a210-2769972990ab)
 
 
