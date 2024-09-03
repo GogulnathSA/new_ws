@@ -1,0 +1,9 @@
+<launch>
+
+     
+     
+     
+     <node pkg="bug_navigation1" type="bug.py" name="simple_bug_node" output="screen" />
+     
+     
+</launch>
