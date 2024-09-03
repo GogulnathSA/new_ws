@@ -33,11 +33,12 @@ move_base pacakge is used to navigate the robot in the desred map.
 
 In this simulation, /order topic is created for the waypoints of the respected table1,table2,table3 and the kitchen and it is published to move_simple_base/goal topic  to perform the naviagtion operation.
 
-![Screenshot from 2024-09-03 08-01-53](https://github.com/user-attachments/assets/1a1c38c0-9ccf-459c-80d7-8f53b4ad3319)
-
-      ![Screenshot from 2024-09-03 08-02-02](https://github.com/user-attachments/assets/d9e3ad44-cf45-45ce-a210-2769972990ab)
+![Screenshot from 2024-09-03 08-01-53](https://github.com/user-attachments/assets/1a1c38c0-9ccf-459c-80d7-8f53b4ad3319) ![WhatsApp Image 2024-09-03 at 7 50 41 AM](https://github.com/user-attachments/assets/d54aa638-09ed-4942-abfa-a31fd7c3264d)
 
 
-      ![WhatsApp Image 2024-09-03 at 7 50 41 AM](https://github.com/user-attachments/assets/606f4bfb-b7a2-4543-9e0f-14e88d1e3b63)
+      
+
+
+    
 
 
